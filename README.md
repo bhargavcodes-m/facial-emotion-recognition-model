@@ -126,7 +126,7 @@ You can replace the dataset under `data/train/` and `data/test/` to retrain the 
 ## Output 
 Below is a screenshot of the facial emotion recognition system in action. The system detects the emotion displayed by the person in front of the webcam and classifies it with a corresponding emotion label:
 
-![Emotion Recognition Output]().
+![Emotion Recognition Output](Screenshot 2025-11-19 234026.png).
 
 
 
